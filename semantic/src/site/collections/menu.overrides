@@ -1,0 +1,8 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+.ui.menu:first-child {
+    margin-top: 0;
+    border-bottom: 2px solid rgb(222, 0, 0);
+}
